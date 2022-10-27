@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app was created show the problem described in issue #38 of tpope/fivemat
 
-Things you may want to cover:
 
 * Ruby version
 
-* System dependencies
+ruby '2.6.3'
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+fivemat (1.3.7)
+rails (5.2.4, 5.2.3)
+rspec (3.9.0)
+rspec-rails (3.9.0)
